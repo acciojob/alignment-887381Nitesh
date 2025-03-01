@@ -6,6 +6,10 @@ body {
             border: 1px solid black;
             margin: 20px auto;
         }
+		td{
+			padding:1px;
+			border:1px solid rgb(0, 0, 0);
+		}
         td, th {
             border: 1px solid black;
             padding: 5px;
