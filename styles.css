@@ -1,1 +1,25 @@
-/*  your css code here. If applicable */
+body {
+            text-align: center;
+        }
+        table {
+            border-collapse: collapse;
+            border: 1px solid black;
+            margin: 20px auto;
+        }
+        td, th {
+            border: 1px solid black;
+            padding: 5px;
+            text-align: left;
+        }
+        .middle td.center {
+            text-align: center;
+        }
+        .middle td.right {
+            text-align: right;
+        }
+        .green {
+            background-color: green;
+        }
+        .blue {
+            background-color: blue;
+        }
